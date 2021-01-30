@@ -15,7 +15,7 @@ Please feel free to contact me through GitHub, LinkedIn, or by email.  I'd love 
 
 [LinkedIn](https://www.linkedin.com/in/sarah-manter-40881877/)
 
-Email:  sarahmanter@gmail.com
+[Email](sarahmanter@gmail.com)
 
 ## Pronouns:
 
