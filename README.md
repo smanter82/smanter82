@@ -11,11 +11,11 @@ I am currently working through UNH Coding Bootcamp.  We are currently learning M
 
 Please feel free to contact me through GitHub, LinkedIn, or by email.  I'd love to chat!
 
-[GitHub](https://github.com/smanter82)
+GitHub: [https://github.com/smanter82](https://github.com/smanter82)
 
-[LinkedIn](https://www.linkedin.com/in/sarah-manter-40881877/)
+LinkedIn [https://www.linkedin.com/in/sarah-manter-40881877/](https://www.linkedin.com/in/sarah-manter-40881877/)
 
-[Email](sarahmanter@gmail.com)
+Email: sarahmanter@gmail.com
 
 ## Pronouns:
 
