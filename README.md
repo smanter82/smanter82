@@ -13,13 +13,13 @@ Please feel free to contact me through GitHub, LinkedIn, or by email.  I'd love 
 
 GitHub: [https://github.com/smanter82](https://github.com/smanter82)
 
-LinkedIn [https://www.linkedin.com/in/sarah-manter-40881877/](https://www.linkedin.com/in/sarah-manter-40881877/)
+LinkedIn: [https://www.linkedin.com/in/sarah-manter-40881877/](https://www.linkedin.com/in/sarah-manter-40881877/)
 
 Email: sarahmanter@gmail.com
 
 ## Pronouns:
 
-My pronouns are She, Her, Hers
+My pronouns are She, Her, Hers.
 
 ## Fun Facts:
 
