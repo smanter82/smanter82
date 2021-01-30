@@ -17,6 +17,8 @@ LinkedIn: [https://www.linkedin.com/in/sarah-manter-40881877/](https://www.linke
 
 Email: sarahmanter@gmail.com
 
+Portfolio:  [https://smanter82.github.io/ManterResponsivePortfolio/](https://smanter82.github.io/ManterResponsivePortfolio/)
+
 ## Pronouns:
 
 My pronouns are She, Her, Hers.
