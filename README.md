@@ -2,10 +2,10 @@
 
 ## Currently working on:
 
-I just finished building the first stage of a Gym Logistical Tracker with an amazing group of colleagues.  We are looking forward to further developing our application and adding new features based on feedback from a friend in the Gym industry.
+I just finished building the second stage of a Gym Logistical Tracker with an amazing group of colleagues. 
 
 ## Currently learning:
-I am currently working through UNH Coding Bootcamp.  We are currently learning MongoDB and Mongoose and will soon be moving on to Lighthouse, Lazy Loading, Minification, Compression, PWAs, Service Workers, and Webpack. Soon after, we will be learning to work with React.
+I am just completed the UNH Coding Bootcamp.  We most recently learned to work with React.  I am looking forward to reviewing what we learned in the course to become more automatic with the basics.
 
 ## Contact:
 
@@ -17,7 +17,7 @@ LinkedIn: [https://www.linkedin.com/in/sarah-manter-40881877/](https://www.linke
 
 Email: sarahmanter@gmail.com
 
-Portfolio:  [https://smanter82.github.io/ManterResponsivePortfolio/](https://smanter82.github.io/ManterResponsivePortfolio/)
+Portfolio:  [https://manter-react-portfolio.herokuapp.com/](https://manter-react-portfolio.herokuapp.com/)
 
 ## Pronouns:
 
