@@ -13,7 +13,7 @@ Please feel free to contact me through GitHub, LinkedIn, or by email.  I'd love 
 
 GitHub: [https://github.com/smanter82](https://github.com/smanter82)
 
-LinkedIn: [https://www.linkedin.com/in/sarah-manter-40881877/](https://www.linkedin.com/in/sarah-manter-40881877/)
+LinkedIn: [https://www.linkedin.com/in/sarahmanter/](https://www.linkedin.com/in/sarahmanter/)
 
 Email: sarahmanter@gmail.com
 
