@@ -2,7 +2,7 @@
 
 ## Currently working on:
 
-I just finished building the second stage of a Gym Logistical Tracker with an amazing group of colleagues. 
+I just finished building the second stage of a Gym Logistical Tracker with an amazing group of colleagues. I'm now working on a Google Books search app and an application that will allow users to search their government reps by town and see their recent votes on education related issues.
 
 ## Currently learning:
 I am just completed the UNH Coding Bootcamp.  We most recently learned to work with React.  I am looking forward to reviewing what we learned in the course to become more automatic with the basics.
