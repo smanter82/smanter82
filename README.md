@@ -2,10 +2,10 @@
 
 ## Currently working on:
 
-I just finished building the second stage of a Gym Logistical Tracker with an amazing group of colleagues. I'm now working on a Google Books search app and an application that will allow users to search their government reps by town and see their recent votes on education related issues.
+I just finished building the second stage of a Gym Logistical Tracker with an amazing group of colleagues. I'm now working on a family website that will allow my two children and me to post our individual talents.  For example, my son can post his comics, and my daughter can post her artwork.  I am also looking into creating an application that will allow parents to track cold/illness symptoms at the request of a mom friend.
 
 ## Currently learning:
-I am just completed the UNH Coding Bootcamp.  We most recently learned to work with React.  I am looking forward to reviewing what we learned in the course to become more automatic with the basics.
+I am just completed the UNH Coding Bootcamp.  We most recently learned to work with React. I have been reviewing what I learned in the course, as well as working my way through courses in AWS, CI/CD, and Typescript.  I'm also working my way through Freecodecamp.org from the beginning to pick up skills that I've missed along the way.
 
 ## Contact:
 
